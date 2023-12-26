@@ -7,6 +7,7 @@
 Text2POS is a lightweight utility to print text from Generic/TextOnly printers. <br>
 You can type via it's GUI, or pass text via command line. <br>
 <br>
-[![Alt text](https://img.youtube.com/vi/WFsw6XDXgPw/0.jpg)](https://www.youtube.com/watch?v=WFsw6XDXgPw)
+Demo <br>
+[![Demo Video](https://img.youtube.com/vi/WFsw6XDXgPw/0.jpg)](https://www.youtube.com/watch?v=WFsw6XDXgPw)
 <br>
 Includes code from: https://stackoverflow.com/a/53371049 <br>
